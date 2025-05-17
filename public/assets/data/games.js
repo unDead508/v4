@@ -236,7 +236,7 @@ var games = [
   {
     id: 'minecraft',
     title: 'Minecraft Classic',
-    url: 'https://assets.3kh0.net/minecraft-classic/index.html',
+    url: 'https://eaglercraft.com/mc/1.12.2/',
     image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
   },
   {
@@ -423,7 +423,7 @@ var games = [
   {
     id: '2048',
     title: '2048',
-    url: 'https://assets.3kh0.net/2048/index.html',
+    url: '/assets/2048/2028-master.zip',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
