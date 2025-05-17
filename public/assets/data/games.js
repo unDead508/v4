@@ -7,7 +7,7 @@ var games = [
   {
     id: 'idlebreakout',
     title: 'Idle Breakout',
-    url: 'https://assets.3kh0.net/idle-breakout/index.html/',
+    url: 'https://legalizenuclearbombs5.github.io/games/idle-breakout/',
     image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
   },
   {
@@ -26,7 +26,7 @@ var games = [
     id: 'cookieclicker',
     title: 'Cookie Clicker',
     description: 'Cookie Clicker is an addictive incremental game where players click to produce cookies, unlock upgrades, and aim to amass an ever-growing mountain of delicious digital treats.',
-    url: 'https://sushi8756.github.io/Cookie-Clicker-2.031/',
+    url: 'https://cyrillbrito.github.io/cookieclicker/',
     image: 'https://cdn.discordapp.com/icons/339131488111034389/73f15cd93d96504af9877a53816d110c.png'
   },
   {
@@ -423,7 +423,7 @@ var games = [
   {
     id: '2048',
     title: '2048',
-    url: '/assets/2048/2028-master.zip',
+    url: 'https://play2048.co/',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
